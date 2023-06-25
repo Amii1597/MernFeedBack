@@ -1,0 +1,53 @@
+.loginC_left{
+    width: 50%;
+}
+.loginC_left b{
+    position: absolute;
+    margin-left: 33px;
+
+    color: #000;
+font-size: 40px;
+font-family: DM Sans;
+font-weight: 400;
+}
+.loginC_left input{
+
+        height: 20px;
+        margin: 20px;
+        margin-left: 70px;
+        border: none;
+
+}
+.loginC_add{
+    width: 150px;
+    height: 44.186px;
+    flex-shrink: 0;
+    border: none;
+    border-radius: 27.907px;
+    background: #36416A;
+    margin-left: 50px;
+}
+.loginC_right{
+width: 50%;
+background-color:#36416A;
+}
+.loginC_feedback{
+    color: #FFF;
+    position: absolute;
+    top: 30px;
+    left: 400px;
+font-size: 48.546px;
+font-family: DM Sans;
+font-weight: 500;
+}
+.loginC_heading{
+    display: flex;
+    position: absolute;
+    left: 400px;
+    top: 100px;
+    width: 153px;
+    height: 371px;
+    flex-direction: column;
+    flex-shrink: 0;
+    color: #FFF;
+}

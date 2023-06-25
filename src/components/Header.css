@@ -1,0 +1,63 @@
+.headerF{
+    position: absolute;
+width: 1360px;
+height: 70px;
+left: 0px;
+top: 0px;
+background: #36416A;
+}
+.headingF{
+    position: absolute;
+    width: 134px;
+    height: 36px;
+    left: 47px;
+    top: 5px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 36px;  
+    color: #FFFFFF;
+}
+.loginF{
+    position: absolute;
+width: 100px;
+height: 31px;
+left: 1100px;
+top: 27px;
+border: none;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 31px;
+background-color: #36416A;
+color: #FFFFFF;
+
+}
+.signupF{
+    
+box-sizing: border-box;
+
+position: absolute;
+width: 135px;
+height: 45px;
+left: 1200px;
+top: 20px;
+background-color: #36416A;
+color: white;
+border: 1.7px solid #FFFFFF;
+border-radius: 8px;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+}
+@media (max-width:900px){
+    .loginF{
+        left: 800px;
+    }
+.signupF{
+    left: 900px;
+}
+}

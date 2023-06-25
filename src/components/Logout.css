@@ -1,0 +1,67 @@
+.logoutF{   
+    position: absolute;
+    width: 84px;
+    height: 31px;
+    left: 1102px;
+    top: 25px;
+    border: none;
+    background-color: #36416A;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 31px;
+    
+    color: #FFFFFF;
+    
+    }
+    .Hello{
+        position: absolute;
+    width: 64px;
+    height: 31px;
+    left: 1200px;
+    top: 10px;
+    
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 31px;
+    
+    color: #FFFFFF;
+    
+    }
+    .avatar{
+        position: absolute;
+    width: 62px;
+    height: 40px;
+    left: 1270px;
+    top: 20px;
+    
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 31px;
+    
+    color: #FFFFFF;
+    
+    }
+    @media (max-width:1090px){
+        .logoutF{   
+         
+      
+            left: 800px;
+            top: 25px;
+      
+            
+            }
+            .Hello{
+             
+            left: 890px;
+            top: 10px;}
+            .avatar{
+            
+            left: 950px;
+            top: 20px;}
+    }
